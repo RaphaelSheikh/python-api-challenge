@@ -1,6 +1,6 @@
 # Python-API-Challenge
 
-![image](https://github.com/RaphaelSheikh/python-api-challenge/assets/166172978/2d872506-2a6c-45f8-9618-56c6bbcd1138)
+![image](https://github.com/RaphaelSheikh/python-api-challenge/assets/166172978/9537dc8c-e7b0-41d2-818b-4f706f474631)
 
 # Background
 
