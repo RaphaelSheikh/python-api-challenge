@@ -4,7 +4,7 @@
 
 # Background
 
-Data's true power is its ability to definitively answer questions. So, let's take what I have learned about Python requests, APIs, and JSON traversals to answer the fundamental question: "What is the weather like as we approach the equator?"
+Data's true power is it's ability to definitively answer questions. So, let's take what I have learned about Python requests, APIs, and JSON traversals to answer the fundamental question: "What is the weather like as we approach the equator?"
 
 Now, I know what you're thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how could I prove that?
 
